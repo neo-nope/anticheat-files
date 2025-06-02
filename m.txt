@@ -1,0 +1,7 @@
+UnityEngine.Transform::Translate
+UnityEngine.Transform::set_position
+UnityEngine.Rigidbody::set_velocity
+UnityEngine.Physics::IgnoreCollision
+UnityEngine.Application::Quit
+Speed
+Long
