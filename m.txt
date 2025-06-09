@@ -5,3 +5,4 @@ UnityEngine.Physics::IgnoreCollision
 UnityEngine.Application::Quit
 Speed
 Long
+GameObject.CreatePrimitive
